@@ -5,6 +5,7 @@ SPA for exploring SSBM frame data. Built with TS and React hooks.
 
 ## General
 
+- [ ] Get just **ONE** character into the system first. This is so we know it can work.
 - [ ] Build web scraper for getting data from the wiki sites since it seems there aren't any ready-made CSV/Google sheet files of the frame data available.
 OR
 - [ ] Input data into a JSON file BY HAND (oh boy).
