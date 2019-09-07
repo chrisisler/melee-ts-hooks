@@ -1,0 +1,185 @@
+{
+  "Jab": {
+    "Total": "27",
+    "Hit": "4-7",
+    "Window of the second slash": "3-27",
+    "Second slash starts": "20",
+    "IASA": "26"
+  },
+  "Jab 2": {
+    "Total": "28",
+    "Hit": "5-9",
+    "IASA": "27"
+  },
+  "F-Tilt": {
+    "Total": "35",
+    "Hit": "7-10"
+  },
+  "D-Tilt": {
+    "Total": "49",
+    "Hit": "7-9",
+    "IASA": "20"
+  },
+  "U-Tilt": {
+    "Total": "39",
+    "Hit": "6-12",
+    "IASA": "32"
+  },
+  "Dash Attack": {
+    "Total": "49",
+    "Hit": "12-15",
+    "IASA": "40"
+  },
+  "F-Smash": {
+    "Total": "49",
+    "Hit": "10-13",
+    "Charge frame": "3",
+    "IASA": "48"
+  },
+  "Up-Smash": {
+    "Total": "54",
+    "Hit": "13-16",
+    "Charge frame": "7",
+    "IASA": "46"
+  },
+  "D-Smash": {
+    "Total": "64",
+    "Hit": "5-7, 20-22",
+    "Charge frame": "3",
+    "IASA": "62"
+  },
+  "N-air": {
+    "Total": "49",
+    "Hit": "6-7, 15-21",
+    "Auto cancel": "<5 25>",
+    "Landlag": "15",
+    "Lcanceled": "7"
+  },
+  "Up-Air": {
+    "Total": "45",
+    "Hit": "5-8",
+    "Auto cancel": "<4 27>",
+    "Landlag": "15",
+    "Lcanceled": "7"
+  },
+  "B-air": {
+    "Total": "39",
+    "Hit": "7-11",
+    "IASA": "35",
+    "Auto cancel": "32>",
+    "Landlag": "24",
+    "Lcanceled": "12"
+  },
+  "D-air": {
+    "Total": "59",
+    "Hit": "6-9",
+    "Auto cancel": "<5 48>",
+    "Landlag": "32",
+    "Lcanceled": "16"
+  },
+  "F-air": {
+    "Total": "33",
+    "Hit": "4-7",
+    "IASA": "30",
+    "Auto cancel": "27>",
+    "Landlag": "15",
+    "Lcanceled": "7"
+  },
+  "Grab": {
+    "Total": "30",
+    "Grab": "7-8"
+  },
+  "Dash Grab": {
+    "Total": "40",
+    "Grab": "10-11"
+  },
+  "Counter": {
+    "Total": "59",
+    "Counters": "5-29",
+
+    "Information0": "--when it counters--",
+    "Total1": "46",
+    "Hit": "14-20 ",
+    "Information1": "(or 1 frame later for real strong moves)",
+    "Information2": "Invincible 1-16"
+  },
+  "Sword Dance (1, Side)": {
+    "Total": "29",
+    "Hit": "6-8",
+    "Window for attack 2": "9-26"
+  },
+  "Sword Dance (2, Neutral/Side/Down)": {
+    "Total": "40",
+    "Hit": "14-16",
+    "Window for attack 3": "17-33"
+  },
+  "Sword Dance (2, Up)": {
+    "Total": "40",
+    "Hit": "12-15",
+    "Window for attack 3": "17-32"
+  },
+  "Sword Dance (3, Side/Neutral)": {
+    "Total": "46",
+    "Hit": "11-14",
+    "Window for attack 4": "16-37"
+  },
+  "Sword Dance (3, Up)": {
+    "Total": "46",
+    "Hit": "13-17",
+    "Window for attack 4": "18-38"
+  },
+  "Sword Dance (3, Down)": {
+    "Total": "46",
+    "Hit": "15-18",
+    "Window for attack 4": "19-35"
+  },
+  "Sword Dance (4, Side/Neutral)": {
+    "Total": "50",
+    "Hit": "23-26"
+  },
+  "Sword Dance (4, Up)": {
+    "Total": "50",
+    "Hit": "20-25"
+  },
+  "Sword Dance (4, Down)": {
+    "Total": "60",
+    "Hit": "13-15, 19-21, 25-27, 31-33,",
+    "Information": "37-38"
+  },
+  "Shield Breaker": {
+    "Time to get to charging": "11 frames",
+    "Hit (from release of B)": "5-10",
+    "Max charge time": "121 frames"
+  },
+  "Dolphin Slash": {
+    "Total": "39",
+    "Hit": "5-10",
+    "Invulnerable": "5",
+    "Landfallspeciallag": "34"
+  },
+  "Air Dodge": {
+    "Information": "Invulnerable 4-29 out of 49"
+  },
+  "Spot-Dodge": {
+    "Information": "invulnerable 2-18 out of 27"
+  },
+  "Roll Forward": {
+    "Information": "invulnerable 4-19 out of 35"
+  },
+  "Roll Back": {
+    "Information0": "invulnerable 4-23 out of 35",
+    "Information1": "2nd longest roll (thx M2K)"
+  },
+  "Jump": {
+    "airborne on frame": "5",
+    "Air time": "59",
+    "Earliest FF": "31",
+    "FF air time": "45",
+
+    "SH air time": "38",
+    "Earliest FF(2)": "20",
+    "SH FF air time": "26",
+
+    "2nd jump earliest FF": "26"
+  }
+}

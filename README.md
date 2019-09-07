@@ -31,3 +31,49 @@ OR
 Potential sites for data
 
 * https://liquipedia.net/smash/Fox/Frame_Data
+* use this: https://smashboards.com/threads/stratocasters-hitbox-system-new-download-link.283973/
+
+### Formatting the frame data from online
+
+Copy the data from the form and place it into a new empty json file.
+Then peform the following regexs on the file
+
+
+**Regex for converting title of moves**
+
+    \n\n(.+)$\n\n
+
+    \n},\n"$1":\n{\n
+
+**Add quotation marks around key**
+
+    ^([a-zA-Z0-9 \\(\\)]+):(?!")
+
+    "$1":
+
+**Add ":" to keys that are missing the ":"**
+
+    ("[a-zA-Z 0-9-]*") 
+
+    $1: 
+
+**Add quotation marks around value**
+
+    : (.+)
+or
+    : (?!")(.+)
+
+    : "$1",
+
+**Add information data**
+
+    ^(?!")(?!})(?!{)(?! )(.+)
+    
+    "Information": "$1",
+
+**Remove commas on last element of objects**
+
+    "(,)\n}
+
+    "\n}
+

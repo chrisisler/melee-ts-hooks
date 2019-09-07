@@ -3,15 +3,25 @@ import { render } from 'react-dom';
 import './index.scss';
 import * as serviceWorker from './serviceWorker';
 import { Switch, Route, BrowserRouter as Router } from 'react-router-dom';
+import characters from './frame-data/characters'
 
 const Header: FC = () => (
   <Switch>
     <Route
       render={() => {
-        // XXX Show character name as header title.
+        // Show character name as header title.
         return (
           <header>
             <h3>SSBM Frames</h3>
+            <h5>Characters</h5>
+            
+            {
+              Object.keys(characters).map((character) => {
+                return (
+                  <div>{character}</div>
+                )
+              })
+            }
           </header>
         );
       }}
@@ -19,18 +29,26 @@ const Header: FC = () => (
   </Switch>
 );
 
-const Page: FC = () => {
+const Home: FC = () => {
   return (
-    <main>
-      <h2>Melee frame data web-app built using React Hooks and Typescript</h2>
-    </main>
+    <>
+    </>
+  );
+};
+
+const Character: FC = (props) => {
+  return (
+    <>
+    </>
   );
 };
 
 const Application: FC = () => (
   <Router>
     <Header />
-    <Route component={Page} />
+    <Route component={Home} />
+    <Route component={Character} />
+    <Route component={Home} />
   </Router>
 );
 
