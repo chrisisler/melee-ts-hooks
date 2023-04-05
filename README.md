@@ -1,4 +1,6 @@
-# melee-ts-hooks
+<!-- # melee-ts-hooks -->
+<img src="melee-banner.png" width/>
+
 SPA for exploring SSBM frame data. Built with TS and React hooks. Special thanks to [Smashboards](https://smashboards.com/)
 
 # Objectives
