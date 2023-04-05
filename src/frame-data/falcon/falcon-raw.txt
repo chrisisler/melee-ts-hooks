@@ -1,0 +1,710 @@
+Jab
+[collapse=Jab 1]
+[collapse=1/2x]
+
+http://i.imgur.com/vAvXVRk.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/ZmPQMVG.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/tXBkvKz.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/bSfJqOz.gif
+[/collapse]
+[/collapse]
+Total: 21
+Hit: 3-5
+Window of the second punch: 3-25
+Second punch starts: 9
+-------------------------------------
+Jab 2
+[collapse=Jab 2]
+[collapse=1/2x]
+
+http://i.imgur.com/ncYdCDy.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/737754L.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/LY4wVXp.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/9jmflt0.gif
+[/collapse]
+[/collapse]
+Total: 20
+Hit: 5-7
+Window of the knee: 2-25
+Knee starts: 8
+-------------------------------------
+Jab 3 (Knee/gentleman)
+[collapse=Jab 3]
+[collapse=1/2x]
+
+http://i.imgur.com/LyAAUi4.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/glW2RZU.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/ofwUny1.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/Ty5DD1G.gif
+[/collapse]
+[/collapse]
+Total: 32
+Hit: 6-12
+IASA: 23
+Rapid Jabs Start: 13
+
+NOTE: to get the knee without the
+jabs, don't interrupt either punch
+animation; instead, hit A after it's
+over.
+-------------------------------------
+Jabs
+[collapse=Jab Rapid]
+[collapse=1/2x]
+
+http://i.imgur.com/zlKpbXH.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/IwqfC2X.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/ZDNi1X7.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/jSH8RCM.gif
+[/collapse]
+[/collapse]
+Total: 55
+Jab hits: 5-6, 13-14, 21-22, 29-30,
+36-37, 45-46
+*image also includes 5 frames of lag after jabs end (total:60)
+-------------------------------------
+F Tilt
+[collapse=F Tilt]
+[collapse=1/2x]
+
+http://i.imgur.com/k8eeq0x.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/b8rtJhi.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/C8h11q3.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/1iPlma0.gif
+[/collapse]
+[/collapse]
+Total: 29
+Hit: 9-11
+-------------------------------------
+F Tilt (Up)
+[collapse=F Tilt (Up)]
+[collapse=1/2x]
+
+http://i.imgur.com/gQWvQDL.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/WgTEvfc.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/4z5jbhV.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/gxoXWaK.gif
+[/collapse]
+[/collapse]
+Total: 29
+Hit: 9-11
+-------------------------------------
+F Tilt (Down)
+[collapse=F Tilt (Down)]
+[collapse=1/2x]
+
+http://i.imgur.com/M2rqwYB.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/l782dP4.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/CvMp6ft.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/HGOdSsY.gif
+[/collapse]
+[/collapse]
+Total: 29
+Hit: 9-11
+-------------------------------------
+D Tilt
+[collapse=D Tilt]
+[collapse=1/2x]
+
+http://i.imgur.com/kEPdg99.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/amiB2LO.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/Nvqhatq.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/IQe39cq.gif
+[/collapse]
+[/collapse]
+Total: 35
+Hit: 10-15
+IASA: 35
+-------------------------------------
+U Tilt
+[collapse=U Tilt]
+[collapse=1/2x]
+
+http://i.imgur.com/zjph93X.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/0xLRl9Q.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/bSws1PR.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/8NP5oDi.gif
+[/collapse]
+[/collapse]
+Total: 39
+Hit: 17-21
+IASA: 38
+-------------------------------------
+Dash attack
+[collapse=Dash Attack]
+[collapse=1/2x]
+
+http://i.imgur.com/GgT2TWU.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/E9nlNnR.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/sQIrwja.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/zBquhCW.gif
+[/collapse]
+[/collapse]
+Total: 39
+Hit: 7-16
+IASA: 38
+-------------------------------------
+F Smash
+[collapse=F Smash]
+[collapse=1/2x]
+
+http://i.imgur.com/lU6OK8w.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/Vz2sIWY.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/mG7sZhu.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/9zTgswL.gif
+[/collapse]
+[/collapse]
+Total: 64
+Hit: 18-21
+IASA: 60
+Charge frame: 10
+-------------------------------------
+U Smash
+[collapse=U Smash]
+[collapse=1/2x]
+
+http://i.imgur.com/ZXvagys.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/MZEDy7g.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/CLGqKBW.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/wr3W7jU.gif
+[/collapse]
+[/collapse]
+Total: 54
+Hit: 21-22, 27-28
+IASA: 40
+Charge frame: 8
+-------------------------------------
+D Smash
+[collapse=D Smash]
+[collapse=1/2x]
+
+http://i.imgur.com/F4zYrSx.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/EqSiVVr.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/A4eS3G0.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/OPrJorN.gif
+[/collapse]
+[/collapse]
+Total: 49
+Hit: 19-22, 29-32
+IASA: 45
+Charge frame: 14
+-------------------------------------
+Nair
+[collapse=N Air]
+[collapse=1/2x]
+
+http://i.imgur.com/B4nRJIX.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/Rf0sd4W.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/2nYLl2p.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/2Sgk6Ru.gif
+[/collapse]
+[/collapse]
+Total: 44
+Hit: 7-12, 20-29
+Auto cancel: <3 34>
+Landlag: 15
+Lcanceled: 7
+-------------------------------------
+Uair
+[collapse=U Air]
+[collapse=1/2x]
+
+http://i.imgur.com/8pKFzhJ.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/PujVLJN.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/D8H9jlc.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/o6NkvRq.gif
+[/collapse]
+[/collapse]
+Total: 33
+Hit: 6-13
+IASA: 30
+Auto cancel: 22>
+Landlag: 15
+Lcanceled: 7
+-------------------------------------
+Bair
+[collapse=B Air]
+[collapse=1/2x]
+
+http://i.imgur.com/aGTb1Gf.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/gUgBaIt.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/ti8dqSQ.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/EeRbZnZ.gif
+[/collapse]
+[/collapse]
+Total: 35
+Hit: 10-17
+IASA: 29
+Auto cancel: <6 21>
+Landlag: 18
+Lcanceled: 9
+-------------------------------------
+Dair
+[collapse=D Air]
+[collapse=1/2x]
+
+http://i.imgur.com/A2pT969.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/zWAsV4c.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/trVmz7Y.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/ekqNVLo.gif
+[/collapse]
+[/collapse]
+Total: 44
+Hit: 16-20
+IASA: 38
+Auto cancel: <3 36>
+Landlag: 24
+Lcanceled: 12
+-------------------------------------
+Fair
+[collapse=F Air]
+[collapse=1/2x]
+
+http://i.imgur.com/D6rpYZg.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/qnLNcuc.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/FVKKVkC.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/pGIQmjx.gif
+[/collapse]
+[/collapse]
+Total: 39
+Hit: 14-30
+IASA: 36
+Auto cancel: <6 35>
+Landlag: 19
+Lcanceled: 9
+-------------------------------------
+Grab
+[collapse=Grab]
+[collapse=1/2x]
+
+http://i.imgur.com/zawtbvU.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/HsisXvA.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/ocZmyMo.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/P138Edq.gif
+[/collapse]
+[/collapse]
+Total: 30
+Grab: 7-8
+-------------------------------------
+Dash grab
+[collapse=Dash Grab]
+[collapse=1/2x]
+
+http://i.imgur.com/T0oLTsR.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/WjoHOLI.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/ky47C9s.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/nFreeDt.gif
+[/collapse]
+[/collapse]
+Total: 40
+Grab: 11-12
+-------------------------------------
+Falcon Kick
+[collapse=Down B]
+[collapse=1/2x]
+
+http://i.imgur.com/LUFohh9.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/gOmGx9Q.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/jMJRSM6.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/h4btr2f.gif
+[/collapse]
+[/collapse]
+[collapse=Down B (Air)]
+[collapse=1/2x]
+
+http://i.imgur.com/82cCTvC.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/kPjubNR.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/gqdLA6O.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/whvdbrl.gif
+[/collapse]
+[/collapse]
+Total
+Hit (from ground): 14-32
+Hit (from air): 15-29
+Recovery time (from ground): 29
+Recovery time (from air): 28
+NOTE: landing during the air recovery
+time causes the ground hit
+Ground hit lag: 45
+Ground hit damaging: 1-2
+Wall hit lag: 60
+-------------------------------------
+Falcon Punch
+[collapse=Neutral B]
+[collapse=1/2x]
+
+http://i.imgur.com/e57zKyv.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/VxHFJZy.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/R1wOg8J.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/E8vOBQv.gif
+[/collapse]
+[/collapse]
+Total: 99
+Hit: 52-56
+-------------------------------------
+Raptor Boost
+[collapse=Side B]
+[collapse=1/2x]
+
+http://i.imgur.com/ZGJ0Eq3.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/VURVpv1.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/Rhd1iMh.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/bcOaudW.gif
+[/collapse]
+[/collapse]
+Total ground (whiffed): 79
+Hit window (ground): 15-34
+Hit window (air): 17-34
+When he hits: 4-8
+Lag from hitting (air): 45
+Lag from hitting (ground): 25
+Landlag: 20
+landfallspeciallag: 20
+-------------------------------------
+Falcon Dive
+[collapse=Up B]
+[collapse=1/2x]
+
+http://i.imgur.com/HBGHmLn.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/bMq81Ac.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/6vpNFap.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/5rRxbqw.gif
+[/collapse]
+[/collapse]
+Total: 64
+Grab: 13-33
+Can grab edges as soon as: 38
+
+grabs edges from both sides
+
+--When grabbing---
+Total: 79
+Hit: 2-6
+Sends away: 20
+
+landfallspeciallag: 30
+-------------------------------------
+Air dodge
+[collapse=Air Dodge]
+[collapse=1/2x]
+
+http://i.imgur.com/WZlmcpj.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/YxyFeqL.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/81eMX2G.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/ahOEETW.gif
+[/collapse]
+[/collapse]
+invulnerable 4-29 out of 49
+-------------------------------------
+Ground dodge
+[collapse=Spot Dodge]
+[collapse=1/2x]
+
+http://i.imgur.com/COXf0Ws.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/UKk1Vl4.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/EhrYdH4.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/fjeMnHT.gif
+[/collapse]
+[/collapse]
+invulnerable 3-20 out of 32
+-------------------------------------
+Roll (back then forward)
+[collapse=Roll Backward]
+[collapse=1/2x]
+
+http://i.imgur.com/umCSdoc.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/gSj7YrO.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/kap5WUK.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/q8dywwO.gif
+[/collapse]
+[/collapse]
+[collapse=Roll Forward]
+[collapse=1/2x]
+
+http://i.imgur.com/A1XtqtU.gif
+[/collapse]
+[collapse=1/4x]
+
+http://i.imgur.com/dIMY8P9.gif
+[/collapse]
+[collapse=1/8x]
+
+http://i.imgur.com/BeZYxHZ.gif
+[/collapse]
+[collapse=1/16x]
+
+http://i.imgur.com/nm3cAjr.gif
+[/collapse]
+[/collapse]
+invulnerable 4-19 out of 31
+14th farthest roll (M2K)
+-------------------------------------
+Jump: airborne on frame 5
+
+Air time: 49
+Earliest FF: 26
+FF air time: 36
+
+SH air time: 31
+Earliest FF: 17
+SH FF air time: 20
+
+2nd jump earliest FF: 23
+
+Landing lag: 4 frames
+
+Dash becomes run at frame 16
+Turn-jump Threshold: 16
+Run turnaround: 28

@@ -1,0 +1,183 @@
+{
+  "Jab": {
+    "Total": "21",
+    "Hit": "3-5",
+    "Window of the second punch": "3-25",
+    "Second punch starts": "9"
+  },
+  "Jab 2": {
+    "Total": "20",
+    "Hit": "5-7",
+    "Window of the knee": "2-25",
+    "Knee starts": "8"
+  },
+  "Jab 3 (Knee/gentleman)": {
+    "Total": "32",
+    "Hit": "6-12",
+    "IASA": "23",
+    "Rapid Jabs Start": "13",
+    "NOTE": "to get the knee without the",
+    "Information0": "jabs, don't interrupt either punch",
+    "Information1": "animation; instead, hit A after it's",
+    "Information2": "over."
+  },
+  "Jabs": {
+    "Total": "55",
+    "Jab hits": "5-6, 13-14, 21-22, 29-30,",
+    "Information0": "36-37, 45-46",
+    "Information1": "*image also includes 5 frames of lag after jabs end (total:60)"
+  },
+  "F Tilt": {
+    "Total": "29",
+    "Hit": "9-11"
+  },
+  "F Tilt (Up)": {
+    "Total": "29",
+    "Hit": "9-11"
+  },
+  "F Tilt (Down)": {
+    "Total": "29",
+    "Hit": "9-11"
+  },
+  "D Tilt": {
+    "Total": "35",
+    "Hit": "10-15",
+    "IASA": "35"
+  },
+  "U Tilt": {
+    "Total": "39",
+    "Hit": "17-21",
+    "IASA": "38"
+  },
+  "Dash attack": {
+    "Total": "39",
+    "Hit": "7-16",
+    "IASA": "38"
+  },
+  "F Smash": {
+    "Total": "64",
+    "Hit": "18-21",
+    "IASA": "60",
+    "Charge frame": "10"
+  },
+  "U Smash": {
+    "Total": "54",
+    "Hit": "21-22, 27-28",
+    "IASA": "40",
+    "Charge frame": "8"
+  },
+  "D Smash": {
+    "Total": "49",
+    "Hit": "19-22, 29-32",
+    "IASA": "45",
+    "Charge frame": "14"
+  },
+  "Nair": {
+    "Total": "44",
+    "Hit": "7-12, 20-29",
+    "Auto cancel": "<3 34>",
+    "Landlag": "15",
+    "Lcanceled": "7"
+  },
+  "Uair": {
+    "Total": "33",
+    "Hit": "6-13",
+    "IASA": "30",
+    "Auto cancel": "22>",
+    "Landlag": "15",
+    "Lcanceled": "7"
+  },
+  "Bair": {
+    "Total": "35",
+    "Hit": "10-17",
+    "IASA": "29",
+    "Auto cancel": "<6 21>",
+    "Landlag": "18",
+    "Lcanceled": "9"
+  },
+  "Dair": {
+    "Total": "44",
+    "Hit": "16-20",
+    "IASA": "38",
+    "Auto cancel": "<3 36>",
+    "Landlag": "24",
+    "Lcanceled": "12"
+  },
+  "Fair": {
+    "Total": "39",
+    "Hit": "14-30",
+    "IASA": "36",
+    "Auto cancel": "<6 35>",
+    "Landlag": "19",
+    "Lcanceled": "9"
+  },
+  "Grab": {
+    "Total": "30",
+    "Grab": "7-8"
+  },
+  "Dash grab": {
+    "Total": "40",
+    "Grab": "11-12"
+  },
+  "Falcon Kick": {
+    "Information0": "Total",
+    "Hit (from ground)": "14-32",
+    "Hit (from air)": "15-29",
+    "Recovery time (from ground)": "29",
+    "Recovery time (from air)": "28",
+    "NOTE": "landing during the air recovery",
+    "Information1": "time causes the ground hit",
+    "Ground hit lag": "45",
+    "Ground hit damaging": "1-2",
+    "Wall hit lag": "60"
+  },
+  "Falcon Punch": {
+    "Total": "99",
+    "Hit": "52-56"
+  },
+  "Raptor Boost": {
+    "Total ground (whiffed)": "79",
+    "Hit window (ground)": "15-34",
+    "Hit window (air)": "17-34",
+    "When he hits": "4-8",
+    "Lag from hitting (air)": "45",
+    "Lag from hitting (ground)": "25",
+    "Landlag": "20",
+    "landfallspeciallag": "20"
+  },
+  "Falcon Dive": {
+    "Total": "64",
+    "Grab": "13-33",
+    "Can grab edges as soon as": "38"
+  },
+  "grabs edges from both sides": {
+    "Information": "--When grabbing---",
+    "Total": "79",
+    "Hit": "2-6",
+    "Sends away": "20",
+    "landfallspeciallag": "30"
+  },
+  "Air dodge": {
+    "Information": "invulnerable 4-29 out of 49"
+  },
+  "Ground dodge": {
+    "Information": "invulnerable 3-20 out of 32"
+  },
+  "Roll (back then forward)": {
+    "Information0": "invulnerable 4-19 out of 31",
+    "Information1": "14th farthest roll (M2K)",
+    "Jump": "airborne on frame 5",
+    "Air time": "49",
+    "Earliest FF0": "26",
+    "FF air time": "36",
+    "SH air time": "31",
+    "Earliest FF1": "17",
+    "SH FF air time": "20"
+  },
+  "2nd jump earliest FF: 23": {
+    "Landing lag": "4 frames",
+    "Information0": "Dash becomes run at frame 16",
+    "Information1": "Turn-jump Threshold: 16",
+    "Run turnaround": "28"
+  }
+}

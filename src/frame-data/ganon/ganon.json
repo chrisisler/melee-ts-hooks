@@ -1,0 +1,148 @@
+{
+  "Jab": {
+    "Total": "21",
+    "Hit": "3-5",
+    "IASA": "19"
+  },
+  "Forward Tilt": {
+    "Total": "29",
+    "Hit": "9-11"
+  },
+  "Down Tilt": {
+    "Total": "35",
+    "Hit": "10-12",
+    "IASA": "35"
+  },
+  "Up Tilt": {
+    "Total": "114",
+    "Hit": "81-83",
+    "IASA": "113"
+  },
+  "Dash Attack": {
+    "Total": "39",
+    "Hit": "7-16",
+    "IASA": "38"
+  },
+  "Forward Smash": {
+    "Total": "66",
+    "Charge frame": "10",
+    "Hit": "20-24",
+    "IASA": "60"
+  },
+  "Down Smash": {
+    "Total": "49",
+    "Charge frame": "14",
+    "Hit": "19-22, 29-32",
+    "IASA": "47"
+  },
+  "Up Smash": {
+    "Total": "54",
+    "Charge frame": "8",
+    "Hit": "21-23, 26-29",
+    "IASA": "40"
+  },
+  "Neutral Air": {
+    "Total": "44",
+    "Hit": "7-8, 16-17 (v1.0) or 20-21 (later versions)",
+    "Auto cancel": "<3 22>",
+    "Landlag": "25",
+    "L canceled": "12"
+  },
+  "Back Air": {
+    "Total": "35",
+    "Hit": "10-15",
+    "IASA": "29",
+    "Auto cancel": "<6 19>",
+    "Landlag": "25",
+    "L canceled": "12"
+  },
+  "Forward Air": {
+    "Total": "44",
+    "Hit": "14-19",
+    "IASA": "35",
+    "Auto cancel": "<6 34>",
+    "Landlag": "25",
+    "L canceled": "12"
+  },
+  "Up Air": {
+    "Total": "33",
+    "Hit": "6-16",
+    "IASA": "30",
+    "Auto cancel": "22>",
+    "Landlag": "25",
+    "L canceled": "12"
+  },
+  "Down Air": {
+    "Total": "44",
+    "Hit": "16-20",
+    "IASA": "38",
+    "Auto cancel": "<3 36>",
+    "Landlag": "35",
+    "L canceled": "17"
+  },
+  "Warlock Punch": {
+    "Total": "119",
+    "Hit": "70-72"
+  },
+  "Gerudo Dragon": {
+    "Total": "79",
+    "Hit Window": "15-34"
+  },
+  "Gerudo Dragon Hit": {
+    "Information0": "(removed hitlag frames from pictures)",
+    "Total": "25",
+    "Hit": "4-8",
+    "Information1": "Upon striking from the air…",
+    "Landlag0": "40",
+    "Landfallspeciallag0": "40",
+    "Information2": "Otherwise",
+    "Landlag1": "20",
+    "Landfallspeciallag1": "20"
+  },
+  "Dark Dive": {
+    "Total": "64",
+    "Grab": "13-33",
+    "Direction choosing": "13",
+    "Landlag": "30",
+    "Landfallspeciallag": "30",
+    "Information0": "Grabs edges from both sides as early",
+    "Information1": "as 45",
+    "Information2": "If it hits…",
+    "Hit": "3-5, 9-11, 15-17, 21-23",
+    "Information3": "Releases on frame 25",
+    "Information4": "Free falling 60 frames after release"
+  },
+  "Wizard's Foot": {
+    "Total": "77",
+    "Hit": "14-34",
+    "Total (ends in the air)": "69",
+    "Information": "If you hit a wall, 60 frame animation"
+  },
+  "Aerial Wizard's Foot": {
+    "Total": "58",
+    "Hit": "15-29",
+    "Landing hit": "2-3",
+    "Landing animation": "57",
+    "Information0": "The large foot hitbox on grounded wizard foot can only hit stage hurtboxes, so it actually only hits a bit past his knee leaving his foot/shin exposed like the aerial version. It's the reason Kirby can duck underneath it without getting hit even though that hitbox clearly goes right through him.",
+    "Information1": "Air dodge",
+    "Information2": "Invulnerable 4-29 out of 49",
+    "Information3": "Ground dodge",
+    "Information4": "Invulnerable 2-20 out of 32",
+    "Information5": "Roll",
+    "Information6": "Invulnerable 4-19 out of 31",
+    "Jumpstart": "6",
+    "Information7": "Airborne on frame 7",
+    "Air time": "42",
+    "Earliest FF0": "22",
+    "FF air time": "32",
+    "SH air time": "33",
+    "Earliest FF1": "18",
+    "SH FF air time": "24"
+  },
+  "2nd jump earliest FF: 20": {
+    "Landlag": "5",
+    "Information0": "Dash becomes run at frame 16",
+    "Information1": "Turn-jump Threshold: 16,",
+    "Run turnaround": "28"
+  }
+}

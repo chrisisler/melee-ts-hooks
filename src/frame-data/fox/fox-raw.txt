@@ -1,0 +1,204 @@
+Jab
+
+Total: 17
+Hit: 2-3
+IASA: 16
+Window of the second punch: 3-31
+Second punch starts: 6 (orlater)
+
+Jab 2
+
+Total: 20
+Hit: 3-4
+IASA: 19
+Window of the kickjabs: 1-20
+Kickjabs start: 6
+
+Rapid Jab
+
+intermediary animation: 6 frames
+Hits: 3-4, 10-11, 17-18, 24-25, 31-32
+1 full cycle: 36 frames
+
+F-tilt
+
+Total: 26
+Hit: 5-8
+
+F-tilt (up)
+
+Total: 26
+Hit: 5-8
+
+F-tilt (down)
+
+Total: 26
+Hit: 5-8
+
+D-tilt
+
+Total: 29
+Hit: 7-9
+IASA: 28
+
+U-tilt
+
+Total: 24
+Hit: 5-11
+IASA: 23
+
+Dash attack
+
+Total: 39
+Hit: 4-17
+IASA: 36
+
+F-Smash
+
+Total: 39
+Hit: 12-22
+Charge frame: 7
+
+Up Smash
+
+Total: 41
+Hit: 7-17
+Head invincible (but not snout): 1-9
+Charge frame: 2
+
+D-Smash
+
+Total: 49
+Hit: 6-10
+Legs invincible: 6
+IASA: 46
+Charge frame: 2
+
+N-air
+
+Total: 49
+Hit: 4-31
+IASA: 42
+Auto cancel: <3 37>
+Landlag: 15
+Lcanceled: 7
+
+Up-air
+
+Total: 39
+Hit: 8-9, 11-14
+IASA: 36
+Auto cancel: <7 26>
+Landlag: 18
+Lcanceled: 9
+
+B-air
+
+Total: 39
+Hit: 4-19
+IASA: 38
+Auto cancel: <3 24>
+Landlag: 20
+Lcanceled: 10
+
+D-air
+
+Total: 49
+Hit: 5-6, 8-9, 11-12, 14-15, 17-18,
+20-21, 23-24
+Auto cancel: <4 31>
+Landlag: 18
+Lcanceled: 9
+
+F-air
+
+Total: 59
+Hit: 6-8, 16-18, 24-26, 33-35, 43-45
+IASA: 53
+Auto cancel: <5 49>
+Landlag: 22
+Lcanceled: 11
+
+Grab
+
+Total: 30
+Grab: 7-8
+
+Dash grab
+
+Total: 40
+Grab: 12-13
+
+Shine
+
+Total: 39 (or more)
+Hits: 1
+Reflects: 4-21 or release+1
+Jump cancelable whenever it reflects
+Lag upon release: 19
+Reflection lag: 19
+
+Blaster
+
+
+Total (single shot): 36
+Shot comes out: 10
+Repeated shots, every 10 frames
+Laser lasts 34 frames
+Auto cancels upon landing
+
+Fox Illusion
+
+
+Total: 63
+Fox starts moving away: 21
+Hit: 22-25
+Time to press B and stop Fox: 20-24
+Can grab edge as early as 29
+Landlag: 20
+Landfallspeciallag: 3
+
+Firefox
+
+Total: 92
+Hit: 20, 22, 24, 26, 28, 30, 32,
+43-72
+When to aim: 42
+Can grab edge during first part as
+early as 16
+Can grab edge during moving part as
+early as 73 (if firing straight into
+wall, if you go downward at the edge,
+Fox will stop firing to grab it)
+Grabs edges from both sides
+Landlag: 6
+Landfallspeciallag: 3
+
+Air Dodge
+
+invulnerable 4-29 out of 49
+
+Spot Dodge
+
+invulnerable 2-15 out of 22
+
+Roll forward
+
+Invulnerable 4-19 out of 31
+
+Roll back
+
+Invulnerable 4-19 out of 31
+15th longest roll (thx M2K)
+
+Jump: airborne on frame 4
+
+Air time: 35
+Earliest FF: 18
+FF air time: 27
+
+SH air time: 21
+Earliest FF: 12
+SH FF air time: 15
+
+2nd jump earliest FF: 21

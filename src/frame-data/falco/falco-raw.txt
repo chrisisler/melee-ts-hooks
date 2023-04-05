@@ -1,0 +1,228 @@
+Jab [Jab 1]
+
+Hit: 2-3
+IASA: 16
+Total: 17
+
+Window for Next Jab: 3-31
+Next Jab Starts: 6 (or later)​
+
+
+Straight [Jab 2]
+
+Hit: 3-4
+IASA: 19
+Total: 20
+
+Window for Jab 3: 1-20
+Jab 3 Starts: 7
+
+
+Rapid Kick [Jab 3]
+
+Hits: 3-4, 10-11, 17-18, 24-25, 31-32 (6 frames between each kick)
+A full cycle: 36 frames​
+
+
+Dash Attack [DA]
+
+Hit: 4-17
+IASA: 36
+Total: 39
+​
+
+Forward Tilt
+
+Hit: 5-9
+Total: 26
+​
+
+Forward Tilt (upward angled) [UAFT]
+
+Hit: 5-9
+Total: 26​
+
+
+Forward Tilt (downward angled) [DAFT]
+
+Hit: 5-9
+Total: 26​
+
+
+Up Tilt [Utilt]
+
+Hit: 5-11
+IASA: 23
+Total: 23
+
+Shield Hit Lag: 5
+Shield Stun: 11​
+
+
+Down Tilt [Dtilt]
+
+Hit: 7-9
+IASA: 28
+Total: 29
+​
+
+Neutral Air [Nair]
+
+Hit: 4-31
+IASA: 42
+Total: 49
+Auto cancel: <3 37>
+
+L-Canceled: 7
+Landlag: 15​
+
+
+Forward Air [Fair]
+
+Hit: 6-8, 16-18, 24-26, 33-35, 43-45
+IASA: 53
+Total: 59
+Auto cancel: <5 49>
+
+Landlag: 22
+Lcanceled: 11​
+
+
+Back Air [Bair]
+
+Hit: 4-19
+IASA: 38
+Total: 39
+Auto cancel: <3 23>
+
+Lcanceled: 10
+Landlag: 20​
+
+
+Up Air [Uair]
+
+Hit: 8-9, 11-14
+IASA: 36
+Total: 39
+Auto cancel: <7 26>
+
+Lcanceled: 9
+Landlag: 18​
+
+
+Down Air [Dair]
+
+Hit: 5-24
+Total: 49
+Auto cancel: <4 30>
+
+Lcanceled: 9
+Landlag: 18​
+
+
+Forward Smash [Fsmash]
+
+Hit: 12-21
+Total: 39
+
+Charge frame: 7​
+
+
+Up Smash [Usmash]
+
+Hit: 7-15
+Total: 43
+
+Head intangible (but not beak): 1-10
+Charge frame: 2​
+
+
+Down Smash [Dsmash]
+
+Hit: 6-10
+IASA: 46
+Total: 49
+
+Legs intangible: 1-6
+Charge frame: 2​
+
+
+Neutral B: Blaster (grounded) [Laser]
+
+Shot comes out: 23
+Total (single shot): 57
+
+Repeated shots, every 24 frames
+Laser lasts 99 frames​
+
+
+Neutral B: Blaster (airborne) [SHL]
+
+Shot comes out: 13
+Total (single shot): 42
+
+Repeated shots, every 16 frames
+Auto cancels upon landing
+Laser lasts 99 frames​
+
+
+Phantasm (grounded) [Side-B]
+
+Falco starts moving away: 17
+Hit: 18-21
+Total: 59
+
+Can grab edge as early as 25
+
+Shortened Phantasm Frames
+Shortest: 16-17
+Middle: 18
+Longest: 19​
+
+
+Phantasm (airborne) [Side-B]
+
+Falco starts moving away: 17
+Hit: 18-21
+Total: 59 Can grab edge as early as 25
+
+Shortened Phantasm Frames
+Shortest: 16-17
+Middle: 18
+Longest: 19
+
+Landlag: 20 (when side-B ends near a surface)
+Landfallspeciallag: 3 (when falling from high up) ​
+
+
+Firebird [Up-B]
+
+Trajectory determined: 42
+Hit: 43-64
+Total: 84
+
+Grabs edges starting on frame 16.
+Grabs edges during moving part as early as 65 (going straight into wall).
+Turns you around if make contact with a wall when going straight up.
+
+Landlag: 6 (when up-B ends near a surface)
+Landfallspeciallag: 3 (when falling from high up)​
+
+
+Reflector (Hitbox) [Down-B/Shine]
+
+Hits: 1
+Intangible: 1
+Inactionable: 2-3
+
+Damage: 8%
+Hit Lag: 5
+Shield Stun: 5
+
+
+Reflector (Reflect box) [Down-B/Shine]
+
+Reflects: 4-21 or release+1
+Lag Upon Release: 19
+Total: 39 (or more)
+Can only be jump cancelled on reflect frames.

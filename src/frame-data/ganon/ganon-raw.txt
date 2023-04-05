@@ -1,0 +1,202 @@
+
+Jab
+
+Total: 21
+Hit: 3-5
+IASA: 19
+___________
+
+Forward Tilt
+
+
+
+Total: 29
+Hit: 9-11
+___________
+
+Down Tilt
+
+Total: 35
+Hit: 10-12
+IASA: 35
+___________
+
+Up Tilt
+
+Total: 114
+Hit: 81-83
+IASA: 113
+___________
+
+Dash Attack
+
+Total: 39
+Hit: 7-16
+IASA: 38
+___________
+
+Forward Smash
+
+
+
+Total: 66
+Charge frame: 10
+Hit: 20-24
+IASA: 60
+___________
+
+Down Smash
+
+Total: 49
+Charge frame: 14
+Hit: 19-22, 29-32
+IASA: 47
+___________
+
+Up Smash
+
+Total: 54
+Charge frame: 8
+Hit: 21-23, 26-29
+IASA: 40
+___________
+
+Neutral Air
+
+Total: 44
+Hit: 7-8, 16-17 (v1.0) or 20-21 (later versions)
+Auto cancel: <3 22>
+Landlag: 25
+L canceled: 12
+___________
+
+Back Air
+
+Total: 35
+Hit: 10-15
+IASA: 29
+Auto cancel: <6 19>
+Landlag: 25
+L canceled: 12
+___________
+
+Forward Air
+
+Total: 44
+Hit: 14-19
+IASA: 35
+Auto cancel: <6 34>
+Landlag: 25
+L canceled: 12
+___________
+
+Up Air
+
+Total: 33
+Hit: 6-16
+IASA: 30
+Auto cancel: 22>
+Landlag: 25
+L canceled: 12
+___________
+
+Down Air
+
+Total: 44
+Hit: 16-20
+IASA: 38
+Auto cancel: <3 36>
+Landlag: 35
+L canceled: 17
+___________
+
+Warlock Punch
+
+Total: 119
+Hit: 70-72
+___________
+
+Gerudo Dragon
+
+
+Total: 79
+Hit Window: 15-34
+___________
+
+Gerudo Dragon Hit
+
+
+(removed hitlag frames from pictures)
+Total: 25
+Hit: 4-8
+Upon striking from the air…
+Landlag: 40
+Landfallspeciallag: 40
+
+Otherwise
+Landlag: 20
+Landfallspeciallag: 20
+___________
+
+Dark Dive
+
+Total: 64
+Grab: 13-33
+Direction choosing: 13
+Landlag: 30
+Landfallspeciallag: 30
+
+Grabs edges from both sides as early
+as 45
+
+If it hits…
+Hit: 3-5, 9-11, 15-17, 21-23
+Releases on frame 25
+Free falling 60 frames after release
+___________
+
+Wizard's Foot
+
+Total: 77
+Hit: 14-34
+Total (ends in the air): 69
+If you hit a wall, 60 frame animation
+
+Aerial Wizard's Foot
+
+Total: 58
+Hit: 15-29
+Landing hit: 2-3
+Landing animation: 57
+
+The large foot hitbox on grounded wizard foot can only hit stage hurtboxes, so it actually only hits a bit past his knee leaving his foot/shin exposed like the aerial version. It's the reason Kirby can duck underneath it without getting hit even though that hitbox clearly goes right through him.
+___________
+
+Air dodge
+Invulnerable 4-29 out of 49
+
+Ground dodge
+Invulnerable 2-20 out of 32
+
+Roll
+Invulnerable 4-19 out of 31
+___________
+
+Jumpstart: 6
+Airborne on frame 7
+
+Air time: 42
+Earliest FF: 22
+FF air time: 32
+
+SH air time: 33
+Earliest FF: 18
+SH FF air time: 24
+
+2nd jump earliest FF: 20
+
+Landlag: 5
+
+Dash becomes run at frame 16
+Turn-jump Threshold: 16
+Run turnaround: 28
