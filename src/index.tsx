@@ -2,11 +2,11 @@ import React, { FC, useState } from 'react';
 import { render } from 'react-dom';
 import './index.scss';
 import * as serviceWorker from './serviceWorker';
-import { Switch, Route, BrowserRouter as Router } from 'react-router-dom';
+import { Routes, Route, BrowserRouter as Router } from 'react-router-dom';
 import characters from './frame-data/characters'
 
 const Header: FC = () => (
-  <Switch>
+  <Routes>
     <Route
       render={() => {
         // Show character name as header title.
@@ -26,7 +26,7 @@ const Header: FC = () => (
         );
       }}
     />
-  </Switch>
+  </Routes>
 );
 
 const Home: FC = () => {
