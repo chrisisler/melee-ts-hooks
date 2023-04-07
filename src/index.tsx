@@ -1,4 +1,4 @@
-import React, { FC } from 'react';
+import React, { FC, useState } from 'react';
 import { render } from 'react-dom';
 import './index.scss';
 import * as serviceWorker from './serviceWorker';
@@ -36,21 +36,34 @@ const Home: FC = () => {
   );
 };
 
-const Character: FC = (props) => {
+const Character = (props) => {
+
+  // props.character
+
   return (
-    <>
-    </>
+    <div className="character-wrapper">
+      <h1>Character page</h1>
+      <b>{props.character}</b>
+    </div>
   );
 };
 
-const Application: FC = () => (
-  <Router>
-    <Header />
-    <Route component={Home} />
-    <Route component={Character} />
-    <Route component={Home} />
-  </Router>
-);
+const Application: FC = () => {
+
+  // const myCharacter = useState('none')
+  const myCharacter = useState('fox')
+
+  return (
+
+    <Router>
+      <Header />
+      <Route component={Home} />
+      <Route component={Character} character={myCharacter} />
+      <Route component={Home} />
+    </Router>
+  )
+
+};
 
 render(<Application />, document.getElementById('root'));
 
