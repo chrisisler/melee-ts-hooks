@@ -1,49 +1,57 @@
-import React, { FC, useState } from 'react';
+import React, { FC, useState, ReactNode } from 'react';
 import { render } from 'react-dom';
 import './index.scss';
 import * as serviceWorker from './serviceWorker';
-import { Routes, Route, BrowserRouter as Router } from 'react-router-dom';
+import { Routes, Route, BrowserRouter } from 'react-router-dom';
 import characters from './frame-data/characters'
 
-const Header: FC = () => (
-  <Routes>
-    <Route
-      render={() => {
-        // Show character name as header title.
-        return (
-          <header>
-            <h3>SSBM Frames</h3>
-            <h5>Characters</h5>
+// const Header: ReactNode = (props): ReactNode => (
+//   // <Routes>
+//   //   <Route
+//   //     render={() => {
+//   //       // Show character name as header title.
+//   //       return (
+//   //         <header>
+//   //           <h3>SSBM Frames</h3>
+//   //           <h5>Characters</h5>
             
-            {
-              Object.keys(characters).map((character) => {
-                return (
-                  <div>{character}</div>
-                )
-              })
-            }
-          </header>
-        );
-      }}
-    />
-  </Routes>
-);
+//   //           {
+//   //             Object.keys(characters).map((character) => {
+//   //               return (
+//   //                 <div>{character}</div>
+//   //               )
+//   //             })
+//   //           }
+//   //         </header>
+//   //       );
+//   //     }}
+//   //   />
+//   // </Routes>
+//   <>
+//   </>
+// );
 
-const Home: FC = () => {
+const Home = () => {
+// const Home: ReactNode = (): ReactNode => {
+// function Home({ children }: Props): ReactNode {
+// function Home(): ReactNode {
   return (
     <>
+      Home page!
     </>
   );
 };
 
-const Character = (props) => {
+const Character = () => {
 
   // props.character
+
+  // useContext
 
   return (
     <div className="character-wrapper">
       <h1>Character page</h1>
-      <b>{props.character}</b>
+      {/* <b>{props.character}</b> */}
     </div>
   );
 };
@@ -55,12 +63,14 @@ const Application: FC = () => {
 
   return (
 
-    <Router>
-      <Header />
-      <Route component={Home} />
-      <Route component={Character} character={myCharacter} />
-      <Route component={Home} />
-    </Router>
+    <BrowserRouter>
+      <Routes>
+        {/* <Header /> */}
+        <Route path="/" element={ <Home /> } />
+        <Route path="/character/" element={<Character />}  /> {/* v6: must use useContext to pass vars */}
+        {/* <Route element={Home} /> */}
+      </Routes>
+    </BrowserRouter>
   )
 
 };
