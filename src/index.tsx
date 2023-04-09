@@ -4,6 +4,7 @@ import './index.scss';
 import * as serviceWorker from './serviceWorker';
 import { Routes, Route, BrowserRouter } from 'react-router-dom';
 import characters from './frame-data/characters'
+import Nav from './components/nav'
 
 // const Header: ReactNode = (props): ReactNode => (
 //   // <Routes>
@@ -46,7 +47,7 @@ const Character = () => {
 
   // props.character
 
-  // useContext
+  // todo: useContext
 
   return (
     <div className="character-wrapper">
@@ -62,15 +63,19 @@ const Application: FC = () => {
   const myCharacter = useState('fox')
 
   return (
+    <div>
+      <Nav />
+  
+      <BrowserRouter>
+        <Routes>
+          {/* <Header /> */}
+          <Route path="/" element={ <Home /> } />
+          <Route path="/character/" element={<Character />}  /> {/* v6: must use useContext to pass vars */}
+          {/* <Route element={Home} /> */}
+        </Routes>
+      </BrowserRouter>
 
-    <BrowserRouter>
-      <Routes>
-        {/* <Header /> */}
-        <Route path="/" element={ <Home /> } />
-        <Route path="/character/" element={<Character />}  /> {/* v6: must use useContext to pass vars */}
-        {/* <Route element={Home} /> */}
-      </Routes>
-    </BrowserRouter>
+    </div>
   )
 
 };
