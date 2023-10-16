@@ -12,5 +12,6 @@ export default {
   falco: Object,
 
   // sheik: Object,
+  // yoshi: Object,
   // ...
 }
